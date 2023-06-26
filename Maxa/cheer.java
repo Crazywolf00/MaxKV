@@ -1,7 +1,7 @@
 package Maxa;
 
 public class cheer {
-    public void cheer() {
-        System.out.println("MaxKV hihihi");
+    public void cheer(String cheer) {
+        System.out.println(cheer);
     }
 }
