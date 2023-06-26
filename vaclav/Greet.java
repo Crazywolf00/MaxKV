@@ -5,9 +5,8 @@ public class Greet {
 
 
 
-    public void greeting(String name, String sirName) {
-        System.out.println(name + sirName + " tvoje máma");
-        System.out.println("Greetings!");
+    public void greeting(String name) {
+        System.out.println("Greetings master " + name + "!");
     }
 
 }
