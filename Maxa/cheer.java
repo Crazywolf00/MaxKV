@@ -2,7 +2,7 @@ package Maxa;
 
 public class cheer {
     public void cheer(String cheer) {
-        cheer = "Tak to blahopreji (" + cheer + ")";
+        cheer = "Cheer for the (" + cheer + ")";
         System.out.println(cheer);
     }
 }
