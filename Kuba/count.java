@@ -2,10 +2,11 @@ package Kuba;
 
 public class count {
 
-    private int age = 4;
 
 
-    public void count(int age){
-        System.out.println(age);
+    public void count(int month){
+        int age = 25;
+        month = 4;
+        System.out.println("Tvuj vek je " + age + " v mesici" + month);
     }
 }
